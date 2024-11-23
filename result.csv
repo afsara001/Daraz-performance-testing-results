@@ -1,0 +1,601 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1732391521269,3449,daraz,200,OK,Thread Group 1-2,text,true,,500823,236,20,20,https://www.daraz.com.bd/,128,0,61
+1732391521269,128,daraz-0,301,Moved Permanently,Thread Group 1-2,text,true,,634,118,20,20,http://www.daraz.com.bd/,128,0,61
+1732391521398,3320,daraz-1,200,OK,Thread Group 1-2,text,true,,500189,118,20,20,https://www.daraz.com.bd/,454,0,203
+1732391521166,3756,daraz,200,OK,Thread Group 1-1,text,true,,500481,236,20,20,https://www.daraz.com.bd/,231,0,163
+1732391521166,231,daraz-0,301,Moved Permanently,Thread Group 1-1,text,true,,634,118,20,20,http://www.daraz.com.bd/,231,0,163
+1732391521398,3524,daraz-1,200,OK,Thread Group 1-1,text,true,,499847,118,20,20,https://www.daraz.com.bd/,465,0,192
+1732391521366,4072,daraz,200,OK,Thread Group 1-3,text,true,,499818,236,20,20,https://www.daraz.com.bd/,111,0,60
+1732391521366,111,daraz-0,301,Moved Permanently,Thread Group 1-3,text,true,,634,118,20,20,http://www.daraz.com.bd/,111,0,60
+1732391521478,3960,daraz-1,200,OK,Thread Group 1-3,text,true,,499184,118,20,20,https://www.daraz.com.bd/,443,0,182
+1732391521469,4573,daraz,200,OK,Thread Group 1-4,text,true,,500182,236,20,20,https://www.daraz.com.bd/,115,0,63
+1732391521469,116,daraz-0,301,Moved Permanently,Thread Group 1-4,text,true,,634,118,20,20,http://www.daraz.com.bd/,115,0,63
+1732391521586,4456,daraz-1,200,OK,Thread Group 1-4,text,true,,499548,118,20,20,https://www.daraz.com.bd/,458,0,177
+1732391521567,5126,daraz,200,OK,Thread Group 1-5,text,true,,498953,236,20,20,https://www.daraz.com.bd/,109,0,54
+1732391521567,109,daraz-0,301,Moved Permanently,Thread Group 1-5,text,true,,634,118,20,20,http://www.daraz.com.bd/,109,0,54
+1732391521677,5016,daraz-1,200,OK,Thread Group 1-5,text,true,,498319,118,20,20,https://www.daraz.com.bd/,456,0,172
+1732391521870,5734,daraz,200,OK,Thread Group 1-8,text,true,,499920,236,20,20,https://www.daraz.com.bd/,106,0,56
+1732391521870,106,daraz-0,301,Moved Permanently,Thread Group 1-8,text,true,,634,118,20,20,http://www.daraz.com.bd/,106,0,56
+1732391521977,5627,daraz-1,200,OK,Thread Group 1-8,text,true,,499286,118,20,20,https://www.daraz.com.bd/,458,0,180
+1732391521768,5845,daraz,200,OK,Thread Group 1-7,text,true,,500790,236,20,20,https://www.daraz.com.bd/,110,0,55
+1732391521768,111,daraz-0,301,Moved Permanently,Thread Group 1-7,text,true,,634,118,20,20,http://www.daraz.com.bd/,110,0,55
+1732391521879,5734,daraz-1,200,OK,Thread Group 1-7,text,true,,500156,118,20,20,https://www.daraz.com.bd/,381,0,167
+1732391521667,6052,daraz,200,OK,Thread Group 1-6,text,true,,498969,236,20,20,https://www.daraz.com.bd/,102,0,51
+1732391521667,102,daraz-0,301,Moved Permanently,Thread Group 1-6,text,true,,634,118,20,20,http://www.daraz.com.bd/,102,0,51
+1732391521770,5949,daraz-1,200,OK,Thread Group 1-6,text,true,,498335,118,20,20,https://www.daraz.com.bd/,470,0,172
+1732391521968,7188,daraz,200,OK,Thread Group 1-9,text,true,,498985,236,20,20,https://www.daraz.com.bd/,102,0,51
+1732391521968,102,daraz-0,301,Moved Permanently,Thread Group 1-9,text,true,,634,118,20,20,http://www.daraz.com.bd/,102,0,51
+1732391522071,7085,daraz-1,200,OK,Thread Group 1-9,text,true,,498351,118,20,20,https://www.daraz.com.bd/,408,0,182
+1732391522368,7092,daraz,200,OK,Thread Group 1-12,text,true,,499912,236,20,20,https://www.daraz.com.bd/,105,0,52
+1732391522368,105,daraz-0,301,Moved Permanently,Thread Group 1-12,text,true,,634,118,20,20,http://www.daraz.com.bd/,105,0,52
+1732391522474,6986,daraz-1,200,OK,Thread Group 1-12,text,true,,499278,118,20,20,https://www.daraz.com.bd/,750,0,390
+1732391522171,7590,daraz,200,OK,Thread Group 1-11,text,true,,500165,236,20,20,https://www.daraz.com.bd/,106,0,53
+1732391522171,106,daraz-0,301,Moved Permanently,Thread Group 1-11,text,true,,634,118,20,20,http://www.daraz.com.bd/,106,0,53
+1732391522277,7484,daraz-1,200,OK,Thread Group 1-11,text,true,,499531,118,20,20,https://www.daraz.com.bd/,536,0,197
+1732391522467,7618,daraz,200,OK,Thread Group 1-13,text,true,,500756,236,20,20,https://www.daraz.com.bd/,204,0,62
+1732391522467,204,daraz-0,301,Moved Permanently,Thread Group 1-13,text,true,,634,118,20,20,http://www.daraz.com.bd/,204,0,62
+1732391522672,7413,daraz-1,200,OK,Thread Group 1-13,text,true,,500122,118,20,20,https://www.daraz.com.bd/,955,0,514
+1732391522284,8722,daraz,200,OK,Thread Group 1-10,text,true,,500829,236,20,20,https://www.daraz.com.bd/,131,0,68
+1732391522284,131,daraz-0,301,Moved Permanently,Thread Group 1-10,text,true,,634,118,20,20,http://www.daraz.com.bd/,131,0,68
+1732391522415,8591,daraz-1,200,OK,Thread Group 1-10,text,true,,500195,118,20,20,https://www.daraz.com.bd/,667,0,300
+1732391524924,6508,daraz,200,OK,Thread Group 1-1,text,true,,500752,236,20,20,https://www.daraz.com.bd/,312,0,0
+1732391524924,312,daraz-0,301,Moved Permanently,Thread Group 1-1,text,true,,634,118,20,20,http://www.daraz.com.bd/,312,0,0
+1732391525236,6196,daraz-1,200,OK,Thread Group 1-1,text,true,,500118,118,20,20,https://www.daraz.com.bd/,564,0,0
+1732391524723,6789,daraz,200,OK,Thread Group 1-2,text,true,,498967,236,20,20,https://www.daraz.com.bd/,286,0,0
+1732391524723,286,daraz-0,301,Moved Permanently,Thread Group 1-2,text,true,,634,118,20,20,http://www.daraz.com.bd/,286,0,0
+1732391525009,6503,daraz-1,200,OK,Thread Group 1-2,text,true,,498333,118,20,20,https://www.daraz.com.bd/,598,0,0
+1732391526694,4972,daraz,200,OK,Thread Group 1-5,text,true,,500724,236,20,20,https://www.daraz.com.bd/,568,0,0
+1732391526694,568,daraz-0,301,Moved Permanently,Thread Group 1-5,text,true,,634,118,20,20,http://www.daraz.com.bd/,568,0,0
+1732391527262,4404,daraz-1,200,OK,Thread Group 1-5,text,true,,500090,118,20,20,https://www.daraz.com.bd/,537,0,0
+1732391522968,8976,daraz,200,OK,Thread Group 1-18,text,true,,499890,236,20,20,https://www.daraz.com.bd/,372,0,176
+1732391522968,372,daraz-0,301,Moved Permanently,Thread Group 1-18,text,true,,634,118,20,20,http://www.daraz.com.bd/,372,0,176
+1732391523342,8602,daraz-1,200,OK,Thread Group 1-18,text,true,,499256,118,20,20,https://www.daraz.com.bd/,1219,0,726
+1732391522868,9161,daraz,200,OK,Thread Group 1-17,text,true,,499802,236,20,20,https://www.daraz.com.bd/,343,0,166
+1732391522868,343,daraz-0,301,Moved Permanently,Thread Group 1-17,text,true,,634,118,20,20,http://www.daraz.com.bd/,343,0,166
+1732391523212,8817,daraz-1,200,OK,Thread Group 1-17,text,true,,499168,118,20,20,https://www.daraz.com.bd/,1154,0,679
+1732391529461,4855,daraz,200,OK,Thread Group 1-12,text,true,,500886,236,20,20,https://www.daraz.com.bd/,323,0,0
+1732391529461,323,daraz-0,301,Moved Permanently,Thread Group 1-12,text,true,,634,118,20,20,http://www.daraz.com.bd/,323,0,0
+1732391529784,4532,daraz-1,200,OK,Thread Group 1-12,text,true,,500252,118,20,20,https://www.daraz.com.bd/,558,0,0
+1732391523068,11397,daraz,200,OK,Thread Group 1-19,text,true,,500818,236,20,20,https://www.daraz.com.bd/,394,0,196
+1732391523068,394,daraz-0,301,Moved Permanently,Thread Group 1-19,text,true,,634,118,20,20,http://www.daraz.com.bd/,394,0,196
+1732391523463,11002,daraz-1,200,OK,Thread Group 1-19,text,true,,500184,118,20,20,https://www.daraz.com.bd/,1286,0,743
+1732391522768,12671,daraz,200,OK,Thread Group 1-16,text,true,,499937,236,20,20,https://www.daraz.com.bd/,341,0,159
+1732391522768,341,daraz-0,301,Moved Permanently,Thread Group 1-16,text,true,,634,118,20,20,http://www.daraz.com.bd/,341,0,159
+1732391523110,12329,daraz-1,200,OK,Thread Group 1-16,text,true,,499303,118,20,20,https://www.daraz.com.bd/,1136,0,651
+1732391530086,5523,daraz,200,OK,Thread Group 1-13,text,true,,499888,236,20,20,https://www.daraz.com.bd/,402,0,0
+1732391530086,402,daraz-0,301,Moved Permanently,Thread Group 1-13,text,true,,634,118,20,20,http://www.daraz.com.bd/,402,0,0
+1732391530488,5121,daraz-1,200,OK,Thread Group 1-13,text,true,,499254,118,20,20,https://www.daraz.com.bd/,650,0,0
+1732391522667,12997,daraz,200,OK,Thread Group 1-15,text,true,,500126,236,20,20,https://www.daraz.com.bd/,311,0,146
+1732391522667,311,daraz-0,301,Moved Permanently,Thread Group 1-15,text,true,,634,118,20,20,http://www.daraz.com.bd/,311,0,146
+1732391522978,12686,daraz-1,200,OK,Thread Group 1-15,text,true,,499492,118,20,20,https://www.daraz.com.bd/,1044,0,593
+1732391526043,9764,daraz,200,OK,Thread Group 1-4,text,true,,499010,236,20,20,https://www.daraz.com.bd/,417,0,0
+1732391526043,417,daraz-0,301,Moved Permanently,Thread Group 1-4,text,true,,634,118,20,20,http://www.daraz.com.bd/,417,0,0
+1732391526460,9347,daraz-1,200,OK,Thread Group 1-4,text,true,,498376,118,20,20,https://www.daraz.com.bd/,645,0,0
+1732391522567,13437,daraz,200,OK,Thread Group 1-14,text,true,,498969,236,20,20,https://www.daraz.com.bd/,303,0,147
+1732391522567,303,daraz-0,301,Moved Permanently,Thread Group 1-14,text,true,,634,118,20,20,http://www.daraz.com.bd/,303,0,147
+1732391522871,13133,daraz-1,200,OK,Thread Group 1-14,text,true,,498335,118,20,20,https://www.daraz.com.bd/,1008,0,555
+1732391527614,8987,daraz,200,OK,Thread Group 1-7,text,true,,500544,236,20,20,https://www.daraz.com.bd/,372,0,0
+1732391527614,372,daraz-0,301,Moved Permanently,Thread Group 1-7,text,true,,634,118,20,20,http://www.daraz.com.bd/,372,0,0
+1732391527987,8614,daraz-1,200,OK,Thread Group 1-7,text,true,,499910,118,20,20,https://www.daraz.com.bd/,653,0,0
+1732391529158,8281,daraz,200,OK,Thread Group 1-9,text,true,,500089,236,20,20,https://www.daraz.com.bd/,362,0,0
+1732391529158,362,daraz-0,301,Moved Permanently,Thread Group 1-9,text,true,,634,118,20,20,http://www.daraz.com.bd/,362,0,0
+1732391529520,7919,daraz-1,200,OK,Thread Group 1-9,text,true,,499455,118,20,20,https://www.daraz.com.bd/,569,0,0
+1732391531666,6198,daraz,200,OK,Thread Group 1-5,text,true,,499853,236,20,20,https://www.daraz.com.bd/,335,0,0
+1732391531666,335,daraz-0,301,Moved Permanently,Thread Group 1-5,text,true,,634,118,20,20,http://www.daraz.com.bd/,335,0,0
+1732391532001,5863,daraz-1,200,OK,Thread Group 1-5,text,true,,499219,118,20,20,https://www.daraz.com.bd/,579,0,0
+1732391525439,12537,daraz,200,OK,Thread Group 1-3,text,true,,499887,236,20,20,https://www.daraz.com.bd/,334,0,0
+1732391525439,334,daraz-0,301,Moved Permanently,Thread Group 1-3,text,true,,634,118,20,20,http://www.daraz.com.bd/,334,0,0
+1732391525773,12203,daraz-1,200,OK,Thread Group 1-3,text,true,,499253,118,20,20,https://www.daraz.com.bd/,587,0,0
+1732391529762,8218,daraz,200,OK,Thread Group 1-11,text,true,,499893,236,20,20,https://www.daraz.com.bd/,354,0,0
+1732391529762,354,daraz-0,301,Moved Permanently,Thread Group 1-11,text,true,,634,118,20,20,http://www.daraz.com.bd/,354,0,0
+1732391530116,7864,daraz-1,200,OK,Thread Group 1-11,text,true,,499259,118,20,20,https://www.daraz.com.bd/,665,0,0
+1732391531433,6590,daraz,200,OK,Thread Group 1-1,text,true,,498969,236,20,20,https://www.daraz.com.bd/,334,0,0
+1732391531433,334,daraz-0,301,Moved Permanently,Thread Group 1-1,text,true,,634,118,20,20,http://www.daraz.com.bd/,334,0,0
+1732391531767,6256,daraz-1,200,OK,Thread Group 1-1,text,true,,498335,118,20,20,https://www.daraz.com.bd/,544,0,0
+1732391527721,10448,daraz,200,OK,Thread Group 1-6,text,true,,500801,236,20,20,https://www.daraz.com.bd/,398,0,0
+1732391527721,398,daraz-0,301,Moved Permanently,Thread Group 1-6,text,true,,634,118,20,20,http://www.daraz.com.bd/,398,0,0
+1732391528119,10050,daraz-1,200,OK,Thread Group 1-6,text,true,,500167,118,20,20,https://www.daraz.com.bd/,654,0,0
+1732391531007,7303,daraz,200,OK,Thread Group 1-10,text,true,,500050,236,20,20,https://www.daraz.com.bd/,433,0,0
+1732391531007,433,daraz-0,301,Moved Permanently,Thread Group 1-10,text,true,,634,118,20,20,http://www.daraz.com.bd/,433,0,0
+1732391531441,6869,daraz-1,200,OK,Thread Group 1-10,text,true,,499416,118,20,20,https://www.daraz.com.bd/,524,0,0
+1732391527606,10983,daraz,200,OK,Thread Group 1-8,text,true,,498945,236,20,20,https://www.daraz.com.bd/,363,0,0
+1732391527606,363,daraz-0,301,Moved Permanently,Thread Group 1-8,text,true,,634,118,20,20,http://www.daraz.com.bd/,363,0,0
+1732391527969,10620,daraz-1,200,OK,Thread Group 1-8,text,true,,498311,118,20,20,https://www.daraz.com.bd/,691,0,0
+1732391523329,15370,daraz,200,OK,Thread Group 1-20,text,true,,500473,236,20,20,https://www.daraz.com.bd/,452,0,217
+1732391523329,453,daraz-0,301,Moved Permanently,Thread Group 1-20,text,true,,634,118,20,20,http://www.daraz.com.bd/,452,0,217
+1732391523782,14917,daraz-1,200,OK,Thread Group 1-20,text,true,,499839,118,20,20,https://www.daraz.com.bd/,1374,0,893
+1732391534315,4844,daraz,200,OK,Thread Group 1-12,text,true,,500073,236,20,20,https://www.daraz.com.bd/,374,0,0
+1732391534315,374,daraz-0,301,Moved Permanently,Thread Group 1-12,text,true,,634,118,20,20,http://www.daraz.com.bd/,374,0,0
+1732391534689,4470,daraz-1,200,OK,Thread Group 1-12,text,true,,499439,118,20,20,https://www.daraz.com.bd/,595,0,0
+1732391531512,7849,daraz,200,OK,Thread Group 1-2,text,true,,500522,236,20,20,https://www.daraz.com.bd/,330,0,0
+1732391531512,330,daraz-0,301,Moved Permanently,Thread Group 1-2,text,true,,634,118,20,20,http://www.daraz.com.bd/,330,0,0
+1732391531842,7519,daraz-1,200,OK,Thread Group 1-2,text,true,,499888,118,20,20,https://www.daraz.com.bd/,528,0,0
+1732391531944,7569,daraz,200,OK,Thread Group 1-18,text,true,,500178,236,20,20,https://www.daraz.com.bd/,326,0,0
+1732391531944,327,daraz-0,301,Moved Permanently,Thread Group 1-18,text,true,,634,118,20,20,http://www.daraz.com.bd/,326,0,0
+1732391532271,7242,daraz-1,200,OK,Thread Group 1-18,text,true,,499544,118,20,20,https://www.daraz.com.bd/,621,0,0
+1732391535608,5713,daraz,200,OK,Thread Group 1-13,text,true,,500854,236,20,20,https://www.daraz.com.bd/,387,0,0
+1732391535608,387,daraz-0,301,Moved Permanently,Thread Group 1-13,text,true,,634,118,20,20,http://www.daraz.com.bd/,387,0,0
+1732391535995,5326,daraz-1,200,OK,Thread Group 1-13,text,true,,500220,118,20,20,https://www.daraz.com.bd/,564,0,0
+1732391537980,4259,daraz,200,OK,Thread Group 1-11,text,true,,500149,236,20,20,https://www.daraz.com.bd/,323,0,0
+1732391537980,323,daraz-0,301,Moved Permanently,Thread Group 1-11,text,true,,634,118,20,20,http://www.daraz.com.bd/,323,0,0
+1732391538304,3935,daraz-1,200,OK,Thread Group 1-11,text,true,,499515,118,20,20,https://www.daraz.com.bd/,535,0,0
+1732391535806,6823,daraz,200,OK,Thread Group 1-4,text,true,,500080,236,20,20,https://www.daraz.com.bd/,343,0,0
+1732391535806,343,daraz-0,301,Moved Permanently,Thread Group 1-4,text,true,,634,118,20,20,http://www.daraz.com.bd/,343,0,0
+1732391536149,6480,daraz-1,200,OK,Thread Group 1-4,text,true,,499446,118,20,20,https://www.daraz.com.bd/,610,0,0
+1732391534464,8825,daraz,200,OK,Thread Group 1-19,text,true,,500469,236,20,20,https://www.daraz.com.bd/,399,0,0
+1732391534464,399,daraz-0,301,Moved Permanently,Thread Group 1-19,text,true,,634,118,20,20,http://www.daraz.com.bd/,399,0,0
+1732391534863,8426,daraz-1,200,OK,Thread Group 1-19,text,true,,499835,118,20,20,https://www.daraz.com.bd/,646,0,0
+1732391532030,11327,daraz,200,OK,Thread Group 1-17,text,true,,500810,236,20,20,https://www.daraz.com.bd/,369,0,0
+1732391532030,369,daraz-0,301,Moved Permanently,Thread Group 1-17,text,true,,634,118,20,20,http://www.daraz.com.bd/,369,0,0
+1732391532399,10958,daraz-1,200,OK,Thread Group 1-17,text,true,,500176,118,20,20,https://www.daraz.com.bd/,617,0,0
+1732391535664,8611,daraz,200,OK,Thread Group 1-15,text,true,,499025,236,20,20,https://www.daraz.com.bd/,374,0,0
+1732391535664,374,daraz-0,301,Moved Permanently,Thread Group 1-15,text,true,,634,118,20,20,http://www.daraz.com.bd/,374,0,0
+1732391536038,8237,daraz-1,200,OK,Thread Group 1-15,text,true,,498391,118,20,20,https://www.daraz.com.bd/,568,0,0
+1732391539161,5946,daraz,200,OK,Thread Group 1-12,text,true,,499998,236,20,20,https://www.daraz.com.bd/,387,0,0
+1732391539161,387,daraz-0,301,Moved Permanently,Thread Group 1-12,text,true,,634,118,20,20,http://www.daraz.com.bd/,387,0,0
+1732391539548,5559,daraz-1,200,OK,Thread Group 1-12,text,true,,499364,118,20,20,https://www.daraz.com.bd/,613,0,0
+1732391537438,7966,daraz,200,OK,Thread Group 1-9,text,true,,499717,236,20,20,https://www.daraz.com.bd/,432,0,0
+1732391537438,432,daraz-0,301,Moved Permanently,Thread Group 1-9,text,true,,634,118,20,20,http://www.daraz.com.bd/,432,0,0
+1732391537870,7534,daraz-1,200,OK,Thread Group 1-9,text,true,,499083,118,20,20,https://www.daraz.com.bd/,486,0,0
+1732391538022,7477,daraz,200,OK,Thread Group 1-1,text,true,,500742,236,20,20,https://www.daraz.com.bd/,290,0,0
+1732391538022,290,daraz-0,301,Moved Permanently,Thread Group 1-1,text,true,,634,118,20,20,http://www.daraz.com.bd/,290,0,0
+1732391538313,7186,daraz-1,200,OK,Thread Group 1-1,text,true,,500108,118,20,20,https://www.daraz.com.bd/,511,0,0
+1732391542240,3899,daraz,200,OK,Thread Group 1-11,text,true,,500334,236,20,20,https://www.daraz.com.bd/,403,0,0
+1732391542240,403,daraz-0,301,Moved Permanently,Thread Group 1-11,text,true,,634,118,20,20,http://www.daraz.com.bd/,403,0,0
+1732391542643,3496,daraz-1,200,OK,Thread Group 1-11,text,true,,499700,118,20,20,https://www.daraz.com.bd/,511,0,0
+1732391536601,10154,daraz,200,OK,Thread Group 1-7,text,true,,500766,236,20,20,https://www.daraz.com.bd/,429,0,0
+1732391536601,429,daraz-0,301,Moved Permanently,Thread Group 1-7,text,true,,634,118,20,20,http://www.daraz.com.bd/,429,0,0
+1732391537030,9725,daraz-1,200,OK,Thread Group 1-7,text,true,,500132,118,20,20,https://www.daraz.com.bd/,1050,0,0
+1732391538589,8517,daraz,200,OK,Thread Group 1-8,text,true,,499664,236,20,20,https://www.daraz.com.bd/,368,0,0
+1732391538589,368,daraz-0,301,Moved Permanently,Thread Group 1-8,text,true,,634,118,20,20,http://www.daraz.com.bd/,368,0,0
+1732391538957,8149,daraz-1,200,OK,Thread Group 1-8,text,true,,499030,118,20,20,https://www.daraz.com.bd/,573,0,0
+1732391541323,6001,daraz,200,OK,Thread Group 1-13,text,true,,499935,236,20,20,https://www.daraz.com.bd/,412,0,0
+1732391541323,412,daraz-0,301,Moved Permanently,Thread Group 1-13,text,true,,634,118,20,20,http://www.daraz.com.bd/,412,0,0
+1732391541735,5589,daraz-1,200,OK,Thread Group 1-13,text,true,,499301,118,20,20,https://www.daraz.com.bd/,613,0,0
+1732391537864,9486,daraz,200,OK,Thread Group 1-5,text,true,,499819,236,20,20,https://www.daraz.com.bd/,351,0,0
+1732391537864,351,daraz-0,301,Moved Permanently,Thread Group 1-5,text,true,,634,118,20,20,http://www.daraz.com.bd/,351,0,0
+1732391538216,9134,daraz-1,200,OK,Thread Group 1-5,text,true,,499185,118,20,20,https://www.daraz.com.bd/,488,0,0
+1732391538311,9231,daraz,200,OK,Thread Group 1-10,text,true,,500814,236,20,20,https://www.daraz.com.bd/,291,0,0
+1732391538311,291,daraz-0,301,Moved Permanently,Thread Group 1-10,text,true,,634,118,20,20,http://www.daraz.com.bd/,291,0,0
+1732391538602,8940,daraz-1,200,OK,Thread Group 1-10,text,true,,500180,118,20,20,https://www.daraz.com.bd/,590,0,0
+1732391535439,12420,daraz,200,OK,Thread Group 1-16,text,true,,500481,236,20,20,https://www.daraz.com.bd/,438,0,0
+1732391535439,438,daraz-0,301,Moved Permanently,Thread Group 1-16,text,true,,634,118,20,20,http://www.daraz.com.bd/,438,0,0
+1732391535877,11982,daraz-1,200,OK,Thread Group 1-16,text,true,,499847,118,20,20,https://www.daraz.com.bd/,484,0,0
+1732391542630,5884,daraz,200,OK,Thread Group 1-4,text,true,,500077,236,20,20,https://www.daraz.com.bd/,341,0,0
+1732391542630,341,daraz-0,301,Moved Permanently,Thread Group 1-4,text,true,,634,118,20,20,http://www.daraz.com.bd/,341,0,0
+1732391542971,5543,daraz-1,200,OK,Thread Group 1-4,text,true,,499443,118,20,20,https://www.daraz.com.bd/,595,0,0
+1732391538182,10556,daraz,200,OK,Thread Group 1-6,text,true,,500467,236,20,20,https://www.daraz.com.bd/,312,0,0
+1732391538182,312,daraz-0,301,Moved Permanently,Thread Group 1-6,text,true,,634,118,20,20,http://www.daraz.com.bd/,312,0,0
+1732391538494,10244,daraz-1,200,OK,Thread Group 1-6,text,true,,499833,118,20,20,https://www.daraz.com.bd/,551,0,0
+1732391536004,13085,daraz,200,OK,Thread Group 1-14,text,true,,499848,236,20,20,https://www.daraz.com.bd/,335,0,0
+1732391536004,335,daraz-0,301,Moved Permanently,Thread Group 1-14,text,true,,634,118,20,20,http://www.daraz.com.bd/,335,0,0
+1732391536339,12750,daraz-1,200,OK,Thread Group 1-14,text,true,,499214,118,20,20,https://www.daraz.com.bd/,602,0,0
+1732391539513,9720,daraz,200,OK,Thread Group 1-18,text,true,,499899,236,20,20,https://www.daraz.com.bd/,419,0,0
+1732391539513,419,daraz-0,301,Moved Permanently,Thread Group 1-18,text,true,,634,118,20,20,http://www.daraz.com.bd/,419,0,0
+1732391539932,9301,daraz-1,200,OK,Thread Group 1-18,text,true,,499265,118,20,20,https://www.daraz.com.bd/,664,0,0
+1732391538699,10752,daraz,200,OK,Thread Group 1-20,text,true,,499690,236,20,20,https://www.daraz.com.bd/,404,0,0
+1732391538699,404,daraz-0,301,Moved Permanently,Thread Group 1-20,text,true,,634,118,20,20,http://www.daraz.com.bd/,404,0,0
+1732391539103,10348,daraz-1,200,OK,Thread Group 1-20,text,true,,499056,118,20,20,https://www.daraz.com.bd/,636,0,0
+1732391539362,10551,daraz,200,OK,Thread Group 1-2,text,true,,499802,236,20,20,https://www.daraz.com.bd/,451,0,0
+1732391539362,451,daraz-0,301,Moved Permanently,Thread Group 1-2,text,true,,634,118,20,20,http://www.daraz.com.bd/,451,0,0
+1732391539813,10100,daraz-1,200,OK,Thread Group 1-2,text,true,,499168,118,20,20,https://www.daraz.com.bd/,605,0,0
+1732391537975,12009,daraz,200,OK,Thread Group 1-3,text,true,,499654,236,20,20,https://www.daraz.com.bd/,316,0,0
+1732391537975,316,daraz-0,301,Moved Permanently,Thread Group 1-3,text,true,,634,118,20,20,http://www.daraz.com.bd/,316,0,0
+1732391538292,11692,daraz-1,200,OK,Thread Group 1-3,text,true,,499020,118,20,20,https://www.daraz.com.bd/,510,0,0
+1732391543291,6785,daraz,200,OK,Thread Group 1-19,text,true,,500684,236,20,20,https://www.daraz.com.bd/,457,0,0
+1732391543291,457,daraz-0,301,Moved Permanently,Thread Group 1-19,text,true,,634,118,20,20,http://www.daraz.com.bd/,457,0,0
+1732391543749,6327,daraz-1,200,OK,Thread Group 1-19,text,true,,500050,118,20,20,https://www.daraz.com.bd/,643,0,0
+1732391544276,7030,daraz,200,OK,Thread Group 1-15,text,true,,499919,236,20,20,https://www.daraz.com.bd/,450,0,0
+1732391544276,450,daraz-0,301,Moved Permanently,Thread Group 1-15,text,true,,634,118,20,20,http://www.daraz.com.bd/,450,0,0
+1732391544727,6579,daraz-1,200,OK,Thread Group 1-15,text,true,,499285,118,20,20,https://www.daraz.com.bd/,575,0,0
+1732391546139,5511,daraz,200,OK,Thread Group 1-11,text,true,,498833,236,20,20,https://www.daraz.com.bd/,451,0,0
+1732391546139,451,daraz-0,301,Moved Permanently,Thread Group 1-11,text,true,,634,118,20,20,http://www.daraz.com.bd/,451,0,0
+1732391546590,5060,daraz-1,200,OK,Thread Group 1-11,text,true,,498199,118,20,20,https://www.daraz.com.bd/,648,0,0
+1732391545108,7550,daraz,200,OK,Thread Group 1-12,text,true,,499792,236,20,20,https://www.daraz.com.bd/,405,0,0
+1732391545108,405,daraz-0,301,Moved Permanently,Thread Group 1-12,text,true,,634,118,20,20,http://www.daraz.com.bd/,405,0,0
+1732391545513,7145,daraz-1,200,OK,Thread Group 1-12,text,true,,499158,118,20,20,https://www.daraz.com.bd/,588,0,0
+1732391547324,5900,daraz,200,OK,Thread Group 1-13,text,true,,499756,236,20,20,https://www.daraz.com.bd/,354,0,0
+1732391547324,354,daraz-0,301,Moved Permanently,Thread Group 1-13,text,true,,634,118,20,20,http://www.daraz.com.bd/,354,0,0
+1732391547678,5546,daraz-1,200,OK,Thread Group 1-13,text,true,,499122,118,20,20,https://www.daraz.com.bd/,603,0,0
+1732391545406,8077,daraz,200,OK,Thread Group 1-9,text,true,,499919,236,20,20,https://www.daraz.com.bd/,409,0,0
+1732391545406,409,daraz-0,301,Moved Permanently,Thread Group 1-9,text,true,,634,118,20,20,http://www.daraz.com.bd/,409,0,0
+1732391545815,7668,daraz-1,200,OK,Thread Group 1-9,text,true,,499285,118,20,20,https://www.daraz.com.bd/,625,0,0
+1732391548514,5625,daraz,200,OK,Thread Group 1-4,text,true,,499583,236,20,20,https://www.daraz.com.bd/,441,0,0
+1732391548514,441,daraz-0,301,Moved Permanently,Thread Group 1-4,text,true,,634,118,20,20,http://www.daraz.com.bd/,441,0,0
+1732391548955,5184,daraz-1,200,OK,Thread Group 1-4,text,true,,498949,118,20,20,https://www.daraz.com.bd/,568,0,0
+1732391545500,9332,daraz,200,OK,Thread Group 1-1,text,true,,499975,236,20,20,https://www.daraz.com.bd/,392,0,0
+1732391548739,6093,daraz,200,OK,Thread Group 1-6,text,true,,500304,236,20,20,https://www.daraz.com.bd/,427,0,0
+1732391545500,392,daraz-0,301,Moved Permanently,Thread Group 1-1,text,true,,634,118,20,20,http://www.daraz.com.bd/,392,0,0
+1732391548739,427,daraz-0,301,Moved Permanently,Thread Group 1-6,text,true,,634,118,20,20,http://www.daraz.com.bd/,427,0,0
+1732391545892,8940,daraz-1,200,OK,Thread Group 1-1,text,true,,499341,118,20,20,https://www.daraz.com.bd/,632,0,0
+1732391549166,5666,daraz-1,200,OK,Thread Group 1-6,text,true,,499670,118,20,20,https://www.daraz.com.bd/,576,0,0
+1732391547860,8790,daraz,200,OK,Thread Group 1-16,text,true,,499935,236,20,20,https://www.daraz.com.bd/,390,0,0
+1732391547860,390,daraz-0,301,Moved Permanently,Thread Group 1-16,text,true,,634,118,20,20,http://www.daraz.com.bd/,390,0,0
+1732391548251,8399,daraz-1,200,OK,Thread Group 1-16,text,true,,499301,118,20,20,https://www.daraz.com.bd/,719,0,0
+1732391546757,10122,daraz,200,OK,Thread Group 1-7,text,true,,500295,236,20,20,https://www.daraz.com.bd/,430,0,0
+1732391546757,430,daraz-0,301,Moved Permanently,Thread Group 1-7,text,true,,634,118,20,20,http://www.daraz.com.bd/,430,0,0
+1732391547187,9692,daraz-1,200,OK,Thread Group 1-7,text,true,,499661,118,20,20,https://www.daraz.com.bd/,540,0,0
+1732391547108,9876,daraz,200,OK,Thread Group 1-8,text,true,,499927,236,20,20,https://www.daraz.com.bd/,412,0,0
+1732391547108,412,daraz-0,301,Moved Permanently,Thread Group 1-8,text,true,,634,118,20,20,http://www.daraz.com.bd/,412,0,0
+1732391547520,9464,daraz-1,200,OK,Thread Group 1-8,text,true,,499293,118,20,20,https://www.daraz.com.bd/,597,0,0
+1732391549234,7781,daraz,200,OK,Thread Group 1-18,text,true,,498799,236,20,20,https://www.daraz.com.bd/,396,0,0
+1732391549234,396,daraz-0,301,Moved Permanently,Thread Group 1-18,text,true,,634,118,20,20,http://www.daraz.com.bd/,396,0,0
+1732391549630,7385,daraz-1,200,OK,Thread Group 1-18,text,true,,498165,118,20,20,https://www.daraz.com.bd/,601,0,0
+1732391553223,4015,daraz,200,OK,Thread Group 1-13,text,true,,499517,236,20,20,https://www.daraz.com.bd/,446,0,0
+1732391553223,446,daraz-0,301,Moved Permanently,Thread Group 1-13,text,true,,634,118,20,20,http://www.daraz.com.bd/,446,0,0
+1732391553669,3569,daraz-1,200,OK,Thread Group 1-13,text,true,,498883,118,20,20,https://www.daraz.com.bd/,607,0,0
+1732391549452,8037,daraz,200,OK,Thread Group 1-20,text,true,,499558,236,20,20,https://www.daraz.com.bd/,410,0,0
+1732391549452,410,daraz-0,301,Moved Permanently,Thread Group 1-20,text,true,,634,118,20,20,http://www.daraz.com.bd/,410,0,0
+1732391549862,7627,daraz-1,200,OK,Thread Group 1-20,text,true,,498924,118,20,20,https://www.daraz.com.bd/,642,0,0
+1732391543357,14355,daraz,200,OK,Thread Group 1-17,text,true,,499929,236,20,20,https://www.daraz.com.bd/,451,0,0
+1732391543357,451,daraz-0,301,Moved Permanently,Thread Group 1-17,text,true,,634,118,20,20,http://www.daraz.com.bd/,451,0,0
+1732391543808,13904,daraz-1,200,OK,Thread Group 1-17,text,true,,499295,118,20,20,https://www.daraz.com.bd/,1134,0,0
+1732391547542,10234,daraz,200,OK,Thread Group 1-10,text,true,,499696,236,20,20,https://www.daraz.com.bd/,368,0,0
+1732391547542,368,daraz-0,301,Moved Permanently,Thread Group 1-10,text,true,,634,118,20,20,http://www.daraz.com.bd/,368,0,0
+1732391547910,9866,daraz-1,200,OK,Thread Group 1-10,text,true,,499062,118,20,20,https://www.daraz.com.bd/,635,0,0
+1732391551650,6822,daraz,200,OK,Thread Group 1-11,text,true,,498841,236,20,20,https://www.daraz.com.bd/,355,0,0
+1732391551650,355,daraz-0,301,Moved Permanently,Thread Group 1-11,text,true,,634,118,20,20,http://www.daraz.com.bd/,355,0,0
+1732391552006,6466,daraz-1,200,OK,Thread Group 1-11,text,true,,498207,118,20,20,https://www.daraz.com.bd/,603,0,0
+1732391551306,7629,daraz,200,OK,Thread Group 1-15,text,true,,499572,236,20,20,https://www.daraz.com.bd/,357,0,0
+1732391551306,357,daraz-0,301,Moved Permanently,Thread Group 1-15,text,true,,634,118,20,20,http://www.daraz.com.bd/,357,0,0
+1732391551663,7272,daraz-1,200,OK,Thread Group 1-15,text,true,,498938,118,20,20,https://www.daraz.com.bd/,590,0,0
+1732391550076,9126,daraz,200,OK,Thread Group 1-19,text,true,,498799,236,20,20,https://www.daraz.com.bd/,422,0,0
+1732391550076,422,daraz-0,301,Moved Permanently,Thread Group 1-19,text,true,,634,118,20,20,http://www.daraz.com.bd/,422,0,0
+1732391550498,8704,daraz-1,200,OK,Thread Group 1-19,text,true,,498165,118,20,20,https://www.daraz.com.bd/,622,0,0
+1732391552658,6609,daraz,200,OK,Thread Group 1-12,text,true,,498799,236,20,20,https://www.daraz.com.bd/,450,0,0
+1732391552658,450,daraz-0,301,Moved Permanently,Thread Group 1-12,text,true,,634,118,20,20,http://www.daraz.com.bd/,450,0,0
+1732391553108,6159,daraz-1,200,OK,Thread Group 1-12,text,true,,498165,118,20,20,https://www.daraz.com.bd/,585,0,0
+1732391549914,9550,daraz,200,OK,Thread Group 1-2,text,true,,499756,236,20,20,https://www.daraz.com.bd/,445,0,0
+1732391549914,445,daraz-0,301,Moved Permanently,Thread Group 1-2,text,true,,634,118,20,20,http://www.daraz.com.bd/,445,0,0
+1732391550359,9105,daraz-1,200,OK,Thread Group 1-2,text,true,,499122,118,20,20,https://www.daraz.com.bd/,714,0,0
+1732391554138,5815,daraz,200,OK,Thread Group 1-4,text,true,,499614,236,20,20,https://www.daraz.com.bd/,430,0,0
+1732391554138,430,daraz-0,301,Moved Permanently,Thread Group 1-4,text,true,,634,118,20,20,http://www.daraz.com.bd/,430,0,0
+1732391554568,5385,daraz-1,200,OK,Thread Group 1-4,text,true,,498980,118,20,20,https://www.daraz.com.bd/,621,0,0
+1732391547350,12664,daraz,200,OK,Thread Group 1-5,text,true,,499572,236,20,20,https://www.daraz.com.bd/,363,0,0
+1732391547350,363,daraz-0,301,Moved Permanently,Thread Group 1-5,text,true,,634,118,20,20,http://www.daraz.com.bd/,363,0,0
+1732391547713,12301,daraz-1,200,OK,Thread Group 1-5,text,true,,498938,118,20,20,https://www.daraz.com.bd/,618,0,0
+1732391557239,3225,daraz,200,OK,Thread Group 1-13,text,true,,500520,236,20,20,https://www.daraz.com.bd/,305,0,0
+1732391557239,305,daraz-0,301,Moved Permanently,Thread Group 1-13,text,true,,634,118,20,20,http://www.daraz.com.bd/,305,0,0
+1732391557544,2920,daraz-1,200,OK,Thread Group 1-13,text,true,,499886,118,20,20,https://www.daraz.com.bd/,631,0,0
+1732391549091,12142,daraz,200,OK,Thread Group 1-14,text,true,,500684,236,20,20,https://www.daraz.com.bd/,354,0,0
+1732391549091,354,daraz-0,301,Moved Permanently,Thread Group 1-14,text,true,,634,118,20,20,http://www.daraz.com.bd/,354,0,0
+1732391549445,11788,daraz-1,200,OK,Thread Group 1-14,text,true,,500050,118,20,20,https://www.daraz.com.bd/,604,0,0
+1732391559267,3099,daraz,200,OK,Thread Group 1-12,text,true,,498783,236,20,20,https://www.daraz.com.bd/,350,0,0
+1732391559267,351,daraz-0,301,Moved Permanently,Thread Group 1-12,text,true,,634,118,20,20,http://www.daraz.com.bd/,350,0,0
+1732391559618,2748,daraz-1,200,OK,Thread Group 1-12,text,true,,498149,118,20,20,https://www.daraz.com.bd/,569,0,0
+1732391549984,12464,daraz,200,OK,Thread Group 1-3,text,true,,499978,236,20,20,https://www.daraz.com.bd/,446,0,0
+1732391549984,446,daraz-0,301,Moved Permanently,Thread Group 1-3,text,true,,634,118,20,20,http://www.daraz.com.bd/,446,0,0
+1732391550430,12018,daraz-1,200,OK,Thread Group 1-3,text,true,,499344,118,20,20,https://www.daraz.com.bd/,1054,0,0
+1732391554832,9280,daraz,200,OK,Thread Group 1-6,text,true,,499677,236,20,20,https://www.daraz.com.bd/,452,0,0
+1732391554832,452,daraz-0,301,Moved Permanently,Thread Group 1-6,text,true,,634,118,20,20,http://www.daraz.com.bd/,452,0,0
+1732391555285,8827,daraz-1,200,OK,Thread Group 1-6,text,true,,499043,118,20,20,https://www.daraz.com.bd/,665,0,0
+1732391553482,10704,daraz,200,OK,Thread Group 1-9,text,true,,499741,236,20,20,https://www.daraz.com.bd/,426,0,0
+1732391553482,426,daraz-0,301,Moved Permanently,Thread Group 1-9,text,true,,634,118,20,20,http://www.daraz.com.bd/,426,0,0
+1732391553909,10277,daraz-1,200,OK,Thread Group 1-9,text,true,,499107,118,20,20,https://www.daraz.com.bd/,625,0,0
+1732391558473,5851,daraz,200,OK,Thread Group 1-11,text,true,,500414,236,20,20,https://www.daraz.com.bd/,448,0,0
+1732391558473,448,daraz-0,301,Moved Permanently,Thread Group 1-11,text,true,,634,118,20,20,http://www.daraz.com.bd/,448,0,0
+1732391558921,5403,daraz-1,200,OK,Thread Group 1-11,text,true,,499780,118,20,20,https://www.daraz.com.bd/,504,0,0
+1732391557014,7997,daraz,200,OK,Thread Group 1-18,text,true,,500497,236,20,20,https://www.daraz.com.bd/,350,0,0
+1732391557014,350,daraz-0,301,Moved Permanently,Thread Group 1-18,text,true,,634,118,20,20,http://www.daraz.com.bd/,350,0,0
+1732391557364,7647,daraz-1,200,OK,Thread Group 1-18,text,true,,499863,118,20,20,https://www.daraz.com.bd/,548,0,0
+1732391557488,7883,daraz,200,OK,Thread Group 1-20,text,true,,500149,236,20,20,https://www.daraz.com.bd/,350,0,0
+1732391557488,350,daraz-0,301,Moved Permanently,Thread Group 1-20,text,true,,634,118,20,20,http://www.daraz.com.bd/,350,0,0
+1732391557838,7533,daraz-1,200,OK,Thread Group 1-20,text,true,,499515,118,20,20,https://www.daraz.com.bd/,645,0,0
+1732391556879,8809,daraz,200,OK,Thread Group 1-7,text,true,,499669,236,20,20,https://www.daraz.com.bd/,367,0,0
+1732391556879,367,daraz-0,301,Moved Permanently,Thread Group 1-7,text,true,,634,118,20,20,http://www.daraz.com.bd/,367,0,0
+1732391557246,8442,daraz-1,200,OK,Thread Group 1-7,text,true,,499035,118,20,20,https://www.daraz.com.bd/,530,0,0
+1732391562366,3530,daraz,200,OK,Thread Group 1-12,text,true,,500012,236,20,20,https://www.daraz.com.bd/,380,0,0
+1732391562366,380,daraz-0,301,Moved Permanently,Thread Group 1-12,text,true,,634,118,20,20,http://www.daraz.com.bd/,380,0,0
+1732391562747,3149,daraz-1,200,OK,Thread Group 1-12,text,true,,499378,118,20,20,https://www.daraz.com.bd/,587,0,0
+1732391560466,6009,daraz,200,OK,Thread Group 1-13,text,true,,499508,236,20,20,https://www.daraz.com.bd/,402,0,0
+1732391560466,402,daraz-0,301,Moved Permanently,Thread Group 1-13,text,true,,634,118,20,20,http://www.daraz.com.bd/,402,0,0
+1732391560868,5607,daraz-1,200,OK,Thread Group 1-13,text,true,,498874,118,20,20,https://www.daraz.com.bd/,1091,0,0
+1732391559954,6534,daraz,200,OK,Thread Group 1-4,text,true,,499989,236,20,20,https://www.daraz.com.bd/,431,0,0
+1732391559954,431,daraz-0,301,Moved Permanently,Thread Group 1-4,text,true,,634,118,20,20,http://www.daraz.com.bd/,431,0,0
+1732391560385,6103,daraz-1,200,OK,Thread Group 1-4,text,true,,499355,118,20,20,https://www.daraz.com.bd/,629,0,0
+1732391554832,11859,daraz,200,OK,Thread Group 1-1,text,true,,499773,236,20,20,https://www.daraz.com.bd/,453,0,0
+1732391554832,453,daraz-0,301,Moved Permanently,Thread Group 1-1,text,true,,634,118,20,20,http://www.daraz.com.bd/,453,0,0
+1732391555285,11406,daraz-1,200,OK,Thread Group 1-1,text,true,,499139,118,20,20,https://www.daraz.com.bd/,713,0,0
+1732391559464,8369,daraz,200,OK,Thread Group 1-2,text,true,,499771,236,20,20,https://www.daraz.com.bd/,364,0,0
+1732391559464,364,daraz-0,301,Moved Permanently,Thread Group 1-2,text,true,,634,118,20,20,http://www.daraz.com.bd/,364,0,0
+1732391559828,8005,daraz-1,200,OK,Thread Group 1-2,text,true,,499137,118,20,20,https://www.daraz.com.bd/,640,0,0
+1732391558935,9004,daraz,200,OK,Thread Group 1-15,text,true,,500594,236,20,20,https://www.daraz.com.bd/,329,0,0
+1732391558935,330,daraz-0,301,Moved Permanently,Thread Group 1-15,text,true,,634,118,20,20,http://www.daraz.com.bd/,329,0,0
+1732391559265,8674,daraz-1,200,OK,Thread Group 1-15,text,true,,499960,118,20,20,https://www.daraz.com.bd/,585,0,0
+1732391556649,11439,daraz,200,OK,Thread Group 1-16,text,true,,500087,236,20,20,https://www.daraz.com.bd/,381,0,0
+1732391556649,381,daraz-0,301,Moved Permanently,Thread Group 1-16,text,true,,634,118,20,20,http://www.daraz.com.bd/,381,0,0
+1732391557030,11058,daraz-1,200,OK,Thread Group 1-16,text,true,,499453,118,20,20,https://www.daraz.com.bd/,540,0,0
+1732391556983,11578,daraz,200,OK,Thread Group 1-8,text,true,,500128,236,20,20,https://www.daraz.com.bd/,355,0,0
+1732391556983,355,daraz-0,301,Moved Permanently,Thread Group 1-8,text,true,,634,118,20,20,http://www.daraz.com.bd/,355,0,0
+1732391557338,11223,daraz-1,200,OK,Thread Group 1-8,text,true,,499494,118,20,20,https://www.daraz.com.bd/,552,0,0
+1732391559202,9502,daraz,200,OK,Thread Group 1-19,text,true,,499702,236,20,20,https://www.daraz.com.bd/,342,0,0
+1732391559202,342,daraz-0,301,Moved Permanently,Thread Group 1-19,text,true,,634,118,20,20,http://www.daraz.com.bd/,342,0,0
+1732391559544,9160,daraz-1,200,OK,Thread Group 1-19,text,true,,499068,118,20,20,https://www.daraz.com.bd/,548,0,0
+1732391557775,11211,daraz,200,OK,Thread Group 1-10,text,true,,500334,236,20,20,https://www.daraz.com.bd/,384,0,0
+1732391557775,384,daraz-0,301,Moved Permanently,Thread Group 1-10,text,true,,634,118,20,20,http://www.daraz.com.bd/,384,0,0
+1732391558160,10826,daraz-1,200,OK,Thread Group 1-10,text,true,,499700,118,20,20,https://www.daraz.com.bd/,625,0,0
+1732391565012,4459,daraz,200,OK,Thread Group 1-18,text,true,,499806,236,20,20,https://www.daraz.com.bd/,434,0,0
+1732391565012,434,daraz-0,301,Moved Permanently,Thread Group 1-18,text,true,,634,118,20,20,http://www.daraz.com.bd/,434,0,0
+1732391565446,4025,daraz-1,200,OK,Thread Group 1-18,text,true,,499172,118,20,20,https://www.daraz.com.bd/,659,0,0
+1732391565896,4198,daraz,200,OK,Thread Group 1-12,text,true,,500646,236,20,20,https://www.daraz.com.bd/,370,0,0
+1732391565896,370,daraz-0,301,Moved Permanently,Thread Group 1-12,text,true,,634,118,20,20,http://www.daraz.com.bd/,370,0,0
+1732391566266,3828,daraz-1,200,OK,Thread Group 1-12,text,true,,500012,118,20,20,https://www.daraz.com.bd/,590,0,0
+1732391565372,4739,daraz,200,OK,Thread Group 1-20,text,true,,500595,236,20,20,https://www.daraz.com.bd/,426,0,0
+1732391565372,426,daraz-0,301,Moved Permanently,Thread Group 1-20,text,true,,634,118,20,20,http://www.daraz.com.bd/,426,0,0
+1732391565799,4312,daraz-1,200,OK,Thread Group 1-20,text,true,,499961,118,20,20,https://www.daraz.com.bd/,598,0,0
+1732391557711,12427,daraz,200,OK,Thread Group 1-17,text,true,,500319,236,20,20,https://www.daraz.com.bd/,390,0,0
+1732391557711,390,daraz-0,301,Moved Permanently,Thread Group 1-17,text,true,,634,118,20,20,http://www.daraz.com.bd/,390,0,0
+1732391558101,12037,daraz-1,200,OK,Thread Group 1-17,text,true,,499685,118,20,20,https://www.daraz.com.bd/,636,0,0
+1732391560015,11161,daraz,200,OK,Thread Group 1-5,text,true,,499773,236,20,20,https://www.daraz.com.bd/,435,0,0
+1732391560015,435,daraz-0,301,Moved Permanently,Thread Group 1-5,text,true,,634,118,20,20,http://www.daraz.com.bd/,435,0,0
+1732391560450,10726,daraz-1,200,OK,Thread Group 1-5,text,true,,499139,118,20,20,https://www.daraz.com.bd/,628,0,0
+1732391564113,8352,daraz,200,OK,Thread Group 1-6,text,true,,500001,236,20,20,https://www.daraz.com.bd/,386,0,0
+1732391564113,386,daraz-0,301,Moved Permanently,Thread Group 1-6,text,true,,634,118,20,20,http://www.daraz.com.bd/,386,0,0
+1732391564499,7966,daraz-1,200,OK,Thread Group 1-6,text,true,,499367,118,20,20,https://www.daraz.com.bd/,657,0,0
+1732391569471,3581,daraz,200,OK,Thread Group 1-18,text,true,,499851,236,20,20,https://www.daraz.com.bd/,409,0,0
+1732391569471,409,daraz-0,301,Moved Permanently,Thread Group 1-18,text,true,,634,118,20,20,http://www.daraz.com.bd/,409,0,0
+1732391569880,3172,daraz-1,200,OK,Thread Group 1-18,text,true,,499217,118,20,20,https://www.daraz.com.bd/,555,0,0
+1732391564325,8772,daraz,200,OK,Thread Group 1-11,text,true,,499875,236,20,20,https://www.daraz.com.bd/,361,0,0
+1732391564325,361,daraz-0,301,Moved Permanently,Thread Group 1-11,text,true,,634,118,20,20,http://www.daraz.com.bd/,361,0,0
+1732391564686,8411,daraz-1,200,OK,Thread Group 1-11,text,true,,499241,118,20,20,https://www.daraz.com.bd/,622,0,0
+1732391565689,7518,daraz,200,OK,Thread Group 1-7,text,true,,500637,236,20,20,https://www.daraz.com.bd/,405,0,0
+1732391565689,405,daraz-0,301,Moved Permanently,Thread Group 1-7,text,true,,634,118,20,20,http://www.daraz.com.bd/,405,0,0
+1732391566094,7113,daraz-1,200,OK,Thread Group 1-7,text,true,,500003,118,20,20,https://www.daraz.com.bd/,619,0,0
+1732391561234,12343,daraz,200,OK,Thread Group 1-14,text,true,,500351,236,20,20,https://www.daraz.com.bd/,454,0,0
+1732391561234,454,daraz-0,301,Moved Permanently,Thread Group 1-14,text,true,,634,118,20,20,http://www.daraz.com.bd/,454,0,0
+1732391561688,11889,daraz-1,200,OK,Thread Group 1-14,text,true,,499717,118,20,20,https://www.daraz.com.bd/,580,0,0
+1732391566475,7124,daraz,200,OK,Thread Group 1-13,text,true,,499954,236,20,20,https://www.daraz.com.bd/,454,0,0
+1732391566475,454,daraz-0,301,Moved Permanently,Thread Group 1-13,text,true,,634,118,20,20,http://www.daraz.com.bd/,454,0,0
+1732391566929,6670,daraz-1,200,OK,Thread Group 1-13,text,true,,499320,118,20,20,https://www.daraz.com.bd/,1085,0,0
+1732391566692,7506,daraz,200,OK,Thread Group 1-1,text,true,,500375,236,20,20,https://www.daraz.com.bd/,458,0,0
+1732391566692,458,daraz-0,301,Moved Permanently,Thread Group 1-1,text,true,,634,118,20,20,http://www.daraz.com.bd/,458,0,0
+1732391567150,7048,daraz-1,200,OK,Thread Group 1-1,text,true,,499741,118,20,20,https://www.daraz.com.bd/,651,0,0
+1732391566488,7817,daraz,200,OK,Thread Group 1-4,text,true,,500668,236,20,20,https://www.daraz.com.bd/,462,0,0
+1732391566488,462,daraz-0,301,Moved Permanently,Thread Group 1-4,text,true,,634,118,20,20,http://www.daraz.com.bd/,462,0,0
+1732391566950,7355,daraz-1,200,OK,Thread Group 1-4,text,true,,500034,118,20,20,https://www.daraz.com.bd/,621,0,0
+1732391570095,5974,daraz,200,OK,Thread Group 1-12,text,true,,500327,236,20,20,https://www.daraz.com.bd/,337,0,0
+1732391570095,337,daraz-0,301,Moved Permanently,Thread Group 1-12,text,true,,634,118,20,20,http://www.daraz.com.bd/,337,0,0
+1732391570432,5637,daraz-1,200,OK,Thread Group 1-12,text,true,,499693,118,20,20,https://www.daraz.com.bd/,607,0,0
+1732391568705,7775,daraz,200,OK,Thread Group 1-19,text,true,,500647,236,19,19,https://www.daraz.com.bd/,438,0,0
+1732391568705,438,daraz-0,301,Moved Permanently,Thread Group 1-19,text,true,,634,118,19,19,http://www.daraz.com.bd/,438,0,0
+1732391569143,7337,daraz-1,200,OK,Thread Group 1-19,text,true,,500013,118,19,19,https://www.daraz.com.bd/,650,0,0
+1732391562448,14847,daraz,200,OK,Thread Group 1-3,text,true,,499693,236,19,19,https://www.daraz.com.bd/,372,0,0
+1732391562448,372,daraz-0,301,Moved Permanently,Thread Group 1-3,text,true,,634,118,19,19,http://www.daraz.com.bd/,372,0,0
+1732391562820,14475,daraz-1,200,OK,Thread Group 1-3,text,true,,499059,118,19,19,https://www.daraz.com.bd/,1469,0,0
+1732391568986,8442,daraz,200,OK,Thread Group 1-10,text,true,,500337,236,19,19,https://www.daraz.com.bd/,437,0,0
+1732391568986,437,daraz-0,301,Moved Permanently,Thread Group 1-10,text,true,,634,118,19,19,http://www.daraz.com.bd/,437,0,0
+1732391569423,8005,daraz-1,200,OK,Thread Group 1-10,text,true,,499703,118,19,19,https://www.daraz.com.bd/,607,0,0
+1732391564188,13595,daraz,200,OK,Thread Group 1-9,text,true,,499681,236,19,19,https://www.daraz.com.bd/,382,0,0
+1732391564188,382,daraz-0,301,Moved Permanently,Thread Group 1-9,text,true,,634,118,19,19,http://www.daraz.com.bd/,382,0,0
+1732391564570,13213,daraz-1,200,OK,Thread Group 1-9,text,true,,499047,118,19,19,https://www.daraz.com.bd/,1593,0,0
+1732391570111,7717,daraz,200,OK,Thread Group 1-20,text,true,,498872,236,19,19,https://www.daraz.com.bd/,386,0,0
+1732391570111,386,daraz-0,301,Moved Permanently,Thread Group 1-20,text,true,,634,118,19,19,http://www.daraz.com.bd/,386,0,0
+1732391570497,7331,daraz-1,200,OK,Thread Group 1-20,text,true,,498238,118,19,19,https://www.daraz.com.bd/,631,0,0
+1732391573053,5126,daraz,200,OK,Thread Group 1-18,text,true,,500067,236,19,19,https://www.daraz.com.bd/,369,0,0
+1732391573053,369,daraz-0,301,Moved Permanently,Thread Group 1-18,text,true,,634,118,19,19,http://www.daraz.com.bd/,369,0,0
+1732391573422,4757,daraz-1,200,OK,Thread Group 1-18,text,true,,499433,118,19,19,https://www.daraz.com.bd/,562,0,0
+1732391573098,5118,daraz,200,OK,Thread Group 1-11,text,true,,498887,236,19,19,https://www.daraz.com.bd/,383,0,0
+1732391573098,383,daraz-0,301,Moved Permanently,Thread Group 1-11,text,true,,634,118,19,19,http://www.daraz.com.bd/,383,0,0
+1732391573481,4735,daraz-1,200,OK,Thread Group 1-11,text,true,,498253,118,19,19,https://www.daraz.com.bd/,610,0,0
+1732391567833,10721,daraz,200,OK,Thread Group 1-2,text,true,,498855,236,19,19,https://www.daraz.com.bd/,361,0,0
+1732391567833,361,daraz-0,301,Moved Permanently,Thread Group 1-2,text,true,,634,118,19,19,http://www.daraz.com.bd/,361,0,0
+1732391568194,10360,daraz-1,200,OK,Thread Group 1-2,text,true,,498221,118,19,19,https://www.daraz.com.bd/,550,0,0
+1732391568562,10001,daraz,200,OK,Thread Group 1-8,text,true,,499803,236,19,19,https://www.daraz.com.bd/,408,0,0
+1732391568562,408,daraz-0,301,Moved Permanently,Thread Group 1-8,text,true,,634,118,19,19,http://www.daraz.com.bd/,408,0,0
+1732391568970,9593,daraz-1,200,OK,Thread Group 1-8,text,true,,499169,118,19,19,https://www.daraz.com.bd/,601,0,0
+1732391573599,5372,daraz,200,OK,Thread Group 1-13,text,true,,500335,236,19,19,https://www.daraz.com.bd/,365,0,0
+1732391573599,365,daraz-0,301,Moved Permanently,Thread Group 1-13,text,true,,634,118,19,19,http://www.daraz.com.bd/,365,0,0
+1732391573964,5007,daraz-1,200,OK,Thread Group 1-13,text,true,,499701,118,19,19,https://www.daraz.com.bd/,615,0,0
+1732391573207,6057,daraz,200,OK,Thread Group 1-7,text,true,,500620,236,18,18,https://www.daraz.com.bd/,391,0,0
+1732391573207,391,daraz-0,301,Moved Permanently,Thread Group 1-7,text,true,,634,118,18,18,http://www.daraz.com.bd/,391,0,0
+1732391573599,5665,daraz-1,200,OK,Thread Group 1-7,text,true,,499986,118,18,18,https://www.daraz.com.bd/,604,0,0
+1732391567940,11444,daraz,200,OK,Thread Group 1-15,text,true,,499856,236,18,18,https://www.daraz.com.bd/,317,0,0
+1732391567940,317,daraz-0,301,Moved Permanently,Thread Group 1-15,text,true,,634,118,18,18,http://www.daraz.com.bd/,317,0,0
+1732391568257,11127,daraz-1,200,OK,Thread Group 1-15,text,true,,499222,118,18,18,https://www.daraz.com.bd/,580,0,0
+1732391572466,7186,daraz,200,OK,Thread Group 1-6,text,true,,500597,236,18,18,https://www.daraz.com.bd/,439,0,0
+1732391572466,439,daraz-0,301,Moved Permanently,Thread Group 1-6,text,true,,634,118,18,18,http://www.daraz.com.bd/,439,0,0
+1732391572905,6747,daraz-1,200,OK,Thread Group 1-6,text,true,,499963,118,18,18,https://www.daraz.com.bd/,605,0,0
+1732391570139,11401,daraz,200,OK,Thread Group 1-17,text,true,,500687,236,18,18,https://www.daraz.com.bd/,393,0,0
+1732391570139,393,daraz-0,301,Moved Permanently,Thread Group 1-17,text,true,,634,118,18,18,http://www.daraz.com.bd/,393,0,0
+1732391570533,11007,daraz-1,200,OK,Thread Group 1-17,text,true,,500053,118,18,18,https://www.daraz.com.bd/,666,0,0
+1732391571176,10882,daraz,200,OK,Thread Group 1-5,text,true,,500398,236,18,18,https://www.daraz.com.bd/,449,0,0
+1732391571176,449,daraz-0,301,Moved Permanently,Thread Group 1-5,text,true,,634,118,18,18,http://www.daraz.com.bd/,449,0,0
+1732391571625,10433,daraz-1,200,OK,Thread Group 1-5,text,true,,499764,118,18,18,https://www.daraz.com.bd/,572,0,0
+1732391577783,4336,daraz,200,OK,Thread Group 1-9,text,true,,500717,236,18,18,https://www.daraz.com.bd/,342,0,0
+1732391577783,342,daraz-0,301,Moved Permanently,Thread Group 1-9,text,true,,634,118,18,18,http://www.daraz.com.bd/,342,0,0
+1732391578125,3994,daraz-1,200,OK,Thread Group 1-9,text,true,,500083,118,18,18,https://www.daraz.com.bd/,634,0,0
+1732391578216,4593,daraz,200,OK,Thread Group 1-11,text,true,,500051,236,18,18,https://www.daraz.com.bd/,302,0,0
+1732391578216,302,daraz-0,301,Moved Permanently,Thread Group 1-11,text,true,,634,118,18,18,http://www.daraz.com.bd/,302,0,0
+1732391578517,4292,daraz-1,200,OK,Thread Group 1-11,text,true,,499417,118,18,18,https://www.daraz.com.bd/,557,0,0
+1732391574198,8703,daraz,200,OK,Thread Group 1-1,text,true,,500596,236,17,17,https://www.daraz.com.bd/,463,0,0
+1732391574198,463,daraz-0,301,Moved Permanently,Thread Group 1-1,text,true,,634,118,17,17,http://www.daraz.com.bd/,463,0,0
+1732391574661,8240,daraz-1,200,OK,Thread Group 1-1,text,true,,499962,118,17,17,https://www.daraz.com.bd/,662,0,0
+1732391574305,9103,daraz,200,OK,Thread Group 1-4,text,true,,499968,236,17,17,https://www.daraz.com.bd/,457,0,0
+1732391574305,457,daraz-0,301,Moved Permanently,Thread Group 1-4,text,true,,634,118,17,17,http://www.daraz.com.bd/,457,0,0
+1732391574762,8646,daraz-1,200,OK,Thread Group 1-4,text,true,,499334,118,17,17,https://www.daraz.com.bd/,606,0,0
+1732391577828,6018,daraz,200,OK,Thread Group 1-20,text,true,,499789,236,17,17,https://www.daraz.com.bd/,343,0,0
+1732391577828,343,daraz-0,301,Moved Permanently,Thread Group 1-20,text,true,,634,118,17,17,http://www.daraz.com.bd/,343,0,0
+1732391578171,5675,daraz-1,200,OK,Thread Group 1-20,text,true,,499155,118,17,17,https://www.daraz.com.bd/,493,0,0
+1732391568089,15891,daraz,200,OK,Thread Group 1-16,text,true,,500000,236,17,17,https://www.daraz.com.bd/,344,0,0
+1732391568089,344,daraz-0,301,Moved Permanently,Thread Group 1-16,text,true,,634,118,17,17,http://www.daraz.com.bd/,344,0,0
+1732391568433,15547,daraz-1,200,OK,Thread Group 1-16,text,true,,499366,118,17,17,https://www.daraz.com.bd/,585,0,0
+1732391582057,1931,daraz,200,OK,Thread Group 1-5,text,true,,2704,236,17,17,https://www.daraz.com.bd/,788,0,403
+1732391582057,788,daraz-0,301,Moved Permanently,Thread Group 1-5,text,true,,634,118,17,17,http://www.daraz.com.bd/,788,0,403
+1732391582845,1143,daraz-1,200,OK,Thread Group 1-5,text,true,,2070,118,17,17,https://www.daraz.com.bd/,1143,0,762
+1732391582118,1921,daraz,200,OK,Thread Group 1-9,text,true,,2698,236,17,17,https://www.daraz.com.bd/,766,0,377
+1732391582118,766,daraz-0,301,Moved Permanently,Thread Group 1-9,text,true,,634,118,17,17,http://www.daraz.com.bd/,766,0,377
+1732391582884,1155,daraz-1,200,OK,Thread Group 1-9,text,true,,2064,118,17,17,https://www.daraz.com.bd/,1155,0,773
+1732391577428,6665,daraz,200,OK,Thread Group 1-10,text,true,,499927,236,17,17,https://www.daraz.com.bd/,398,0,0
+1732391577428,398,daraz-0,301,Moved Permanently,Thread Group 1-10,text,true,,634,118,17,17,http://www.daraz.com.bd/,398,0,0
+1732391577826,6267,daraz-1,200,OK,Thread Group 1-10,text,true,,499293,118,17,17,https://www.daraz.com.bd/,507,0,0
+1732391579651,4782,daraz,200,OK,Thread Group 1-6,text,true,,499966,236,17,17,https://www.daraz.com.bd/,411,0,0
+1732391579651,411,daraz-0,301,Moved Permanently,Thread Group 1-6,text,true,,634,118,17,17,http://www.daraz.com.bd/,411,0,0
+1732391580063,4370,daraz-1,200,OK,Thread Group 1-6,text,true,,499332,118,17,17,https://www.daraz.com.bd/,657,0,0
+1732391576480,7961,daraz,200,OK,Thread Group 1-19,text,true,,499943,236,17,17,https://www.daraz.com.bd/,426,0,0
+1732391576480,426,daraz-0,301,Moved Permanently,Thread Group 1-19,text,true,,634,118,17,17,http://www.daraz.com.bd/,426,0,0
+1732391576906,7535,daraz-1,200,OK,Thread Group 1-19,text,true,,499309,118,17,17,https://www.daraz.com.bd/,656,0,0
+1732391583989,568,daraz,200,OK,Thread Group 1-5,text,true,,2728,236,17,17,https://www.daraz.com.bd/,307,0,0
+1732391583989,307,daraz-0,301,Moved Permanently,Thread Group 1-5,text,true,,634,118,17,17,http://www.daraz.com.bd/,307,0,0
+1732391584297,260,daraz-1,200,OK,Thread Group 1-5,text,true,,2094,118,17,17,https://www.daraz.com.bd/,256,0,0
+1732391584041,562,daraz,200,OK,Thread Group 1-9,text,true,,2698,236,17,17,https://www.daraz.com.bd/,303,0,0
+1732391582900,1703,daraz,200,OK,Thread Group 1-1,text,true,,2686,236,17,17,https://www.daraz.com.bd/,768,0,381
+1732391584041,303,daraz-0,301,Moved Permanently,Thread Group 1-9,text,true,,634,118,17,17,http://www.daraz.com.bd/,303,0,0
+1732391582900,768,daraz-0,301,Moved Permanently,Thread Group 1-1,text,true,,634,118,17,17,http://www.daraz.com.bd/,768,0,381
+1732391584344,259,daraz-1,200,OK,Thread Group 1-9,text,true,,2064,118,17,17,https://www.daraz.com.bd/,259,0,0
+1732391583669,934,daraz-1,200,OK,Thread Group 1-1,text,true,,2052,118,17,17,https://www.daraz.com.bd/,934,0,683
+1732391579264,5473,daraz,200,OK,Thread Group 1-7,text,true,,498855,236,17,17,https://www.daraz.com.bd/,438,0,0
+1732391579264,438,daraz-0,301,Moved Permanently,Thread Group 1-7,text,true,,634,118,17,17,http://www.daraz.com.bd/,438,0,0
+1732391579702,5035,daraz-1,200,OK,Thread Group 1-7,text,true,,498221,118,17,17,https://www.daraz.com.bd/,609,0,0
+1732391583419,1409,daraz,200,OK,Thread Group 1-4,text,true,,2704,236,17,17,https://www.daraz.com.bd/,701,0,386
+1732391583419,701,daraz-0,301,Moved Permanently,Thread Group 1-4,text,true,,634,118,17,17,http://www.daraz.com.bd/,701,0,386
+1732391584121,707,daraz-1,200,OK,Thread Group 1-4,text,true,,2070,118,17,17,https://www.daraz.com.bd/,707,0,513
+1732391578179,6655,daraz,200,OK,Thread Group 1-18,text,true,,500007,236,16,16,https://www.daraz.com.bd/,323,0,0
+1732391578179,323,daraz-0,301,Moved Permanently,Thread Group 1-18,text,true,,634,118,16,16,http://www.daraz.com.bd/,323,0,0
+1732391578501,6333,daraz-1,200,OK,Thread Group 1-18,text,true,,499373,118,16,16,https://www.daraz.com.bd/,548,0,0
+1732391578554,6310,daraz,200,OK,Thread Group 1-2,text,true,,500730,236,16,16,https://www.daraz.com.bd/,377,0,0
+1732391578554,377,daraz-0,301,Moved Permanently,Thread Group 1-2,text,true,,634,118,16,16,http://www.daraz.com.bd/,377,0,0
+1732391578931,5933,daraz-1,200,OK,Thread Group 1-2,text,true,,500096,118,16,16,https://www.daraz.com.bd/,607,0,0
+1732391584557,337,daraz,200,OK,Thread Group 1-5,text,true,,2734,236,16,16,https://www.daraz.com.bd/,205,0,0
+1732391584557,205,daraz-0,301,Moved Permanently,Thread Group 1-5,text,true,,634,118,16,16,http://www.daraz.com.bd/,205,0,0
+1732391584762,132,daraz-1,200,OK,Thread Group 1-5,text,true,,2100,118,16,16,https://www.daraz.com.bd/,130,0,0
+1732391584603,327,daraz,200,OK,Thread Group 1-1,text,true,,2680,236,15,15,https://www.daraz.com.bd/,198,0,0
+1732391584603,198,daraz-0,301,Moved Permanently,Thread Group 1-1,text,true,,634,118,15,15,http://www.daraz.com.bd/,198,0,0
+1732391584801,129,daraz-1,200,OK,Thread Group 1-1,text,true,,2046,118,15,15,https://www.daraz.com.bd/,129,0,0
+1732391584603,327,daraz,200,OK,Thread Group 1-9,text,true,,2662,236,14,14,https://www.daraz.com.bd/,198,0,0
+1732391584603,198,daraz-0,301,Moved Permanently,Thread Group 1-9,text,true,,634,118,14,14,http://www.daraz.com.bd/,198,0,0
+1732391584801,129,daraz-1,200,OK,Thread Group 1-9,text,true,,2028,118,14,14,https://www.daraz.com.bd/,129,0,0
+1732391573577,11381,daraz,200,OK,Thread Group 1-14,text,true,,499791,236,13,13,https://www.daraz.com.bd/,368,0,0
+1732391573577,368,daraz-0,301,Moved Permanently,Thread Group 1-14,text,true,,634,118,13,13,http://www.daraz.com.bd/,368,0,0
+1732391573945,11013,daraz-1,200,OK,Thread Group 1-14,text,true,,499157,118,13,13,https://www.daraz.com.bd/,624,0,0
+1732391583846,1121,daraz,200,OK,Thread Group 1-20,text,true,,2668,236,13,13,https://www.daraz.com.bd/,603,0,319
+1732391583846,603,daraz-0,301,Moved Permanently,Thread Group 1-20,text,true,,634,118,13,13,http://www.daraz.com.bd/,603,0,319
+1732391584449,518,daraz-1,200,OK,Thread Group 1-20,text,true,,2034,118,13,13,https://www.daraz.com.bd/,518,0,390
+1732391583980,1008,daraz,200,OK,Thread Group 1-16,text,true,,2680,236,13,13,https://www.daraz.com.bd/,565,0,309
+1732391583980,565,daraz-0,301,Moved Permanently,Thread Group 1-16,text,true,,634,118,13,13,http://www.daraz.com.bd/,565,0,309
+1732391584545,443,daraz-1,200,OK,Thread Group 1-16,text,true,,2046,118,13,13,https://www.daraz.com.bd/,443,0,340
+1732391584093,940,daraz,200,OK,Thread Group 1-10,text,true,,2698,236,13,13,https://www.daraz.com.bd/,532,0,293
+1732391584093,532,daraz-0,301,Moved Permanently,Thread Group 1-10,text,true,,634,118,13,13,http://www.daraz.com.bd/,532,0,293
+1732391584625,408,daraz-1,200,OK,Thread Group 1-10,text,true,,2064,118,13,13,https://www.daraz.com.bd/,404,0,308
+1732391584435,702,daraz,200,OK,Thread Group 1-6,text,true,,2722,236,13,13,https://www.daraz.com.bd/,394,0,204
+1732391584435,394,daraz-0,301,Moved Permanently,Thread Group 1-6,text,true,,634,118,13,13,http://www.daraz.com.bd/,394,0,204
+1732391584829,308,daraz-1,200,OK,Thread Group 1-6,text,true,,2088,118,13,13,https://www.daraz.com.bd/,308,0,212
+1732391577296,7845,daraz,200,OK,Thread Group 1-3,text,true,,500578,236,13,13,https://www.daraz.com.bd/,439,0,0
+1732391577296,439,daraz-0,301,Moved Permanently,Thread Group 1-3,text,true,,634,118,13,13,http://www.daraz.com.bd/,439,0,0
+1732391577735,7406,daraz-1,200,OK,Thread Group 1-3,text,true,,499944,118,13,13,https://www.daraz.com.bd/,529,0,0
+1732391584441,703,daraz,200,OK,Thread Group 1-19,text,true,,2710,236,13,13,https://www.daraz.com.bd/,388,0,198
+1732391584441,388,daraz-0,301,Moved Permanently,Thread Group 1-19,text,true,,634,118,13,13,http://www.daraz.com.bd/,388,0,198
+1732391584829,315,daraz-1,200,OK,Thread Group 1-19,text,true,,2076,118,13,13,https://www.daraz.com.bd/,315,0,223
+1732391584968,204,daraz,200,OK,Thread Group 1-20,text,true,,2704,236,13,13,https://www.daraz.com.bd/,102,0,0
+1732391584968,102,daraz-0,301,Moved Permanently,Thread Group 1-20,text,true,,634,118,13,13,http://www.daraz.com.bd/,102,0,0
+1732391585070,102,daraz-1,200,OK,Thread Group 1-20,text,true,,2070,118,13,13,https://www.daraz.com.bd/,102,0,0
+1732391584988,202,daraz,200,OK,Thread Group 1-16,text,true,,2656,236,13,13,https://www.daraz.com.bd/,106,0,0
+1732391584988,106,daraz-0,301,Moved Permanently,Thread Group 1-16,text,true,,634,118,13,13,http://www.daraz.com.bd/,106,0,0
+1732391585094,96,daraz-1,200,OK,Thread Group 1-16,text,true,,2022,118,13,13,https://www.daraz.com.bd/,96,0,0
+1732391585033,180,daraz,200,OK,Thread Group 1-10,text,true,,2692,236,13,13,https://www.daraz.com.bd/,91,0,0
+1732391585033,91,daraz-0,301,Moved Permanently,Thread Group 1-10,text,true,,634,118,13,13,http://www.daraz.com.bd/,91,0,0
+1732391585124,89,daraz-1,200,OK,Thread Group 1-10,text,true,,2058,118,13,13,https://www.daraz.com.bd/,89,0,0
+1732391584738,518,daraz,200,OK,Thread Group 1-7,text,true,,2680,236,13,13,https://www.daraz.com.bd/,240,0,135
+1732391584738,240,daraz-0,301,Moved Permanently,Thread Group 1-7,text,true,,634,118,13,13,http://www.daraz.com.bd/,240,0,135
+1732391584978,278,daraz-1,200,OK,Thread Group 1-7,text,true,,2046,118,13,13,https://www.daraz.com.bd/,277,0,198
+1732391585138,157,daraz,200,OK,Thread Group 1-6,text,true,,2704,236,13,13,https://www.daraz.com.bd/,80,0,0
+1732391585138,80,daraz-0,301,Moved Permanently,Thread Group 1-6,text,true,,634,118,13,13,http://www.daraz.com.bd/,80,0,0
+1732391585218,77,daraz-1,200,OK,Thread Group 1-6,text,true,,2070,118,13,13,https://www.daraz.com.bd/,77,0,0
+1732391585173,155,daraz,200,OK,Thread Group 1-20,text,true,,2668,236,12,12,https://www.daraz.com.bd/,76,0,0
+1732391585173,76,daraz-0,301,Moved Permanently,Thread Group 1-20,text,true,,634,118,12,12,http://www.daraz.com.bd/,76,0,0
+1732391585249,79,daraz-1,200,OK,Thread Group 1-20,text,true,,2034,118,12,12,https://www.daraz.com.bd/,79,0,0
+1732391584835,493,daraz,200,OK,Thread Group 1-18,text,true,,2704,236,12,12,https://www.daraz.com.bd/,219,0,123
+1732391584835,219,daraz-0,301,Moved Permanently,Thread Group 1-18,text,true,,634,118,12,12,http://www.daraz.com.bd/,219,0,123
+1732391585055,273,daraz-1,200,OK,Thread Group 1-18,text,true,,2070,118,12,12,https://www.daraz.com.bd/,273,0,179
+1732391585145,185,daraz,200,OK,Thread Group 1-19,text,true,,2698,236,10,10,https://www.daraz.com.bd/,75,0,0
+1732391585145,75,daraz-0,301,Moved Permanently,Thread Group 1-19,text,true,,634,118,10,10,http://www.daraz.com.bd/,75,0,0
+1732391585221,109,daraz-1,200,OK,Thread Group 1-19,text,true,,2064,118,10,10,https://www.daraz.com.bd/,109,0,0
+1732391584865,474,daraz,200,OK,Thread Group 1-2,text,true,,2704,236,10,10,https://www.daraz.com.bd/,203,0,102
+1732391584865,203,daraz-0,301,Moved Permanently,Thread Group 1-2,text,true,,634,118,10,10,http://www.daraz.com.bd/,203,0,102
+1732391585068,271,daraz-1,200,OK,Thread Group 1-2,text,true,,2070,118,10,10,https://www.daraz.com.bd/,271,0,174
+1732391585190,164,daraz,200,OK,Thread Group 1-16,text,true,,2686,236,10,10,https://www.daraz.com.bd/,76,0,0
+1732391585190,76,daraz-0,301,Moved Permanently,Thread Group 1-16,text,true,,634,118,10,10,http://www.daraz.com.bd/,76,0,0
+1732391585266,88,daraz-1,200,OK,Thread Group 1-16,text,true,,2052,118,10,10,https://www.daraz.com.bd/,88,0,0
+1732391585214,165,daraz,200,OK,Thread Group 1-10,text,true,,2686,236,10,10,https://www.daraz.com.bd/,80,0,0
+1732391585214,80,daraz-0,301,Moved Permanently,Thread Group 1-10,text,true,,634,118,10,10,http://www.daraz.com.bd/,80,0,0
+1732391585295,84,daraz-1,200,OK,Thread Group 1-10,text,true,,2052,118,10,10,https://www.daraz.com.bd/,84,0,0
+1732391584958,443,daraz,200,OK,Thread Group 1-14,text,true,,2674,236,9,9,https://www.daraz.com.bd/,186,0,96
+1732391584958,186,daraz-0,301,Moved Permanently,Thread Group 1-14,text,true,,634,118,9,9,http://www.daraz.com.bd/,186,0,96
+1732391585144,257,daraz-1,200,OK,Thread Group 1-14,text,true,,2040,118,9,9,https://www.daraz.com.bd/,257,0,168
+1732391581539,3883,daraz,200,OK,Thread Group 1-17,text,true,,498824,236,9,9,https://www.daraz.com.bd/,373,0,0
+1732391581539,373,daraz-0,301,Moved Permanently,Thread Group 1-17,text,true,,634,118,9,9,http://www.daraz.com.bd/,373,0,0
+1732391581913,3509,daraz-1,200,OK,Thread Group 1-17,text,true,,498190,118,9,9,https://www.daraz.com.bd/,566,0,0
+1732391585256,167,daraz,200,OK,Thread Group 1-7,text,true,,2692,236,9,9,https://www.daraz.com.bd/,84,0,0
+1732391585256,84,daraz-0,301,Moved Permanently,Thread Group 1-7,text,true,,634,118,9,9,http://www.daraz.com.bd/,84,0,0
+1732391585340,83,daraz-1,200,OK,Thread Group 1-7,text,true,,2058,118,9,9,https://www.daraz.com.bd/,83,0,0
+1732391579383,6047,daraz,200,OK,Thread Group 1-15,text,true,,499959,236,8,8,https://www.daraz.com.bd/,408,0,0
+1732391579383,408,daraz-0,301,Moved Permanently,Thread Group 1-15,text,true,,634,118,8,8,http://www.daraz.com.bd/,408,0,0
+1732391579791,5639,daraz-1,200,OK,Thread Group 1-15,text,true,,499325,118,8,8,https://www.daraz.com.bd/,622,0,0
+1732391585330,140,daraz,200,OK,Thread Group 1-19,text,true,,2698,236,8,8,https://www.daraz.com.bd/,84,0,0
+1732391585330,84,daraz-0,301,Moved Permanently,Thread Group 1-19,text,true,,634,118,8,8,http://www.daraz.com.bd/,84,0,0
+1732391585414,56,daraz-1,200,OK,Thread Group 1-19,text,true,,2064,118,8,8,https://www.daraz.com.bd/,56,0,0
+1732391585340,130,daraz,200,OK,Thread Group 1-2,text,true,,2698,236,8,8,https://www.daraz.com.bd/,77,0,0
+1732391585340,77,daraz-0,301,Moved Permanently,Thread Group 1-2,text,true,,634,118,8,8,http://www.daraz.com.bd/,77,0,0
+1732391585417,53,daraz-1,200,OK,Thread Group 1-2,text,true,,2064,118,8,8,https://www.daraz.com.bd/,53,0,0
+1732391585354,130,daraz,200,OK,Thread Group 1-16,text,true,,2668,236,6,6,https://www.daraz.com.bd/,77,0,0
+1732391585354,77,daraz-0,301,Moved Permanently,Thread Group 1-16,text,true,,634,118,6,6,http://www.daraz.com.bd/,77,0,0
+1732391585431,53,daraz-1,200,OK,Thread Group 1-16,text,true,,2034,118,6,6,https://www.daraz.com.bd/,53,0,0
+1732391585142,357,daraz,200,OK,Thread Group 1-3,text,true,,2674,236,6,6,https://www.daraz.com.bd/,153,0,78
+1732391585142,153,daraz-0,301,Moved Permanently,Thread Group 1-3,text,true,,634,118,6,6,http://www.daraz.com.bd/,153,0,78
+1732391585295,204,daraz-1,200,OK,Thread Group 1-3,text,true,,2040,118,6,6,https://www.daraz.com.bd/,204,0,149
+1732391585401,108,daraz,200,OK,Thread Group 1-14,text,true,,2662,236,6,6,https://www.daraz.com.bd/,54,0,0
+1732391585401,54,daraz-0,301,Moved Permanently,Thread Group 1-14,text,true,,634,118,6,6,http://www.daraz.com.bd/,54,0,0
+1732391585455,54,daraz-1,200,OK,Thread Group 1-14,text,true,,2028,118,6,6,https://www.daraz.com.bd/,53,0,0
+1732391585484,105,daraz,200,OK,Thread Group 1-16,text,true,,2692,236,6,6,https://www.daraz.com.bd/,51,0,0
+1732391585484,51,daraz-0,301,Moved Permanently,Thread Group 1-16,text,true,,634,118,6,6,http://www.daraz.com.bd/,51,0,0
+1732391585535,54,daraz-1,200,OK,Thread Group 1-16,text,true,,2058,118,6,6,https://www.daraz.com.bd/,54,0,0
+1732391585499,112,daraz,200,OK,Thread Group 1-3,text,true,,2710,236,5,5,https://www.daraz.com.bd/,53,0,0
+1732391585499,53,daraz-0,301,Moved Permanently,Thread Group 1-3,text,true,,634,118,5,5,http://www.daraz.com.bd/,53,0,0
+1732391585552,59,daraz-1,200,OK,Thread Group 1-3,text,true,,2076,118,5,5,https://www.daraz.com.bd/,54,0,0
+1732391585509,104,daraz,200,OK,Thread Group 1-14,text,true,,2722,236,5,5,https://www.daraz.com.bd/,53,0,0
+1732391585509,53,daraz-0,301,Moved Permanently,Thread Group 1-14,text,true,,634,118,5,5,http://www.daraz.com.bd/,53,0,0
+1732391585562,51,daraz-1,200,OK,Thread Group 1-14,text,true,,2088,118,5,5,https://www.daraz.com.bd/,51,0,0
+1732391585423,284,daraz,200,OK,Thread Group 1-17,text,true,,2692,236,5,5,https://www.daraz.com.bd/,111,0,56
+1732391585431,276,daraz,200,OK,Thread Group 1-15,text,true,,2650,236,5,5,https://www.daraz.com.bd/,104,0,52
+1732391585423,111,daraz-0,301,Moved Permanently,Thread Group 1-17,text,true,,634,118,5,5,http://www.daraz.com.bd/,111,0,56
+1732391585431,104,daraz-0,301,Moved Permanently,Thread Group 1-15,text,true,,634,118,5,5,http://www.daraz.com.bd/,104,0,52
+1732391585534,173,daraz-1,200,OK,Thread Group 1-17,text,true,,2058,118,5,5,https://www.daraz.com.bd/,173,0,115
+1732391585535,172,daraz-1,200,OK,Thread Group 1-15,text,true,,2016,118,5,5,https://www.daraz.com.bd/,172,0,114
+1732391585613,104,daraz,200,OK,Thread Group 1-14,text,true,,2698,236,5,5,https://www.daraz.com.bd/,50,0,0
+1732391585613,50,daraz-0,301,Moved Permanently,Thread Group 1-14,text,true,,634,118,5,5,http://www.daraz.com.bd/,50,0,0
+1732391585663,54,daraz-1,200,OK,Thread Group 1-14,text,true,,2064,118,5,5,https://www.daraz.com.bd/,54,0,0
+1732391585612,109,daraz,200,OK,Thread Group 1-3,text,true,,2656,236,5,5,https://www.daraz.com.bd/,55,0,0
+1732391585612,55,daraz-0,301,Moved Permanently,Thread Group 1-3,text,true,,634,118,5,5,http://www.daraz.com.bd/,55,0,0
+1732391585667,54,daraz-1,200,OK,Thread Group 1-3,text,true,,2022,118,5,5,https://www.daraz.com.bd/,54,0,0
+1732391578563,7185,daraz,200,OK,Thread Group 1-8,text,true,,499952,236,5,5,https://www.daraz.com.bd/,368,0,0
+1732391578563,368,daraz-0,301,Moved Permanently,Thread Group 1-8,text,true,,634,118,5,5,http://www.daraz.com.bd/,368,0,0
+1732391578931,6817,daraz-1,200,OK,Thread Group 1-8,text,true,,499318,118,5,5,https://www.daraz.com.bd/,560,0,0
+1732391585707,108,daraz,200,OK,Thread Group 1-15,text,true,,2698,236,5,5,https://www.daraz.com.bd/,51,0,0
+1732391585707,108,daraz,200,OK,Thread Group 1-17,text,true,,2692,236,5,5,https://www.daraz.com.bd/,51,0,0
+1732391585707,51,daraz-0,301,Moved Permanently,Thread Group 1-15,text,true,,634,118,5,5,http://www.daraz.com.bd/,51,0,0
+1732391585707,51,daraz-0,301,Moved Permanently,Thread Group 1-17,text,true,,634,118,5,5,http://www.daraz.com.bd/,51,0,0
+1732391585758,57,daraz-1,200,OK,Thread Group 1-15,text,true,,2064,118,5,5,https://www.daraz.com.bd/,57,0,0
+1732391585758,57,daraz-1,200,OK,Thread Group 1-17,text,true,,2058,118,5,5,https://www.daraz.com.bd/,56,0,0
+1732391585717,103,daraz,200,OK,Thread Group 1-14,text,true,,2686,236,5,5,https://www.daraz.com.bd/,52,0,0
+1732391585717,52,daraz-0,301,Moved Permanently,Thread Group 1-14,text,true,,634,118,5,5,http://www.daraz.com.bd/,52,0,0
+1732391585769,51,daraz-1,200,OK,Thread Group 1-14,text,true,,2052,118,5,5,https://www.daraz.com.bd/,51,0,0
+1732391585721,104,daraz,200,OK,Thread Group 1-3,text,true,,2716,236,4,4,https://www.daraz.com.bd/,51,0,0
+1732391585721,51,daraz-0,301,Moved Permanently,Thread Group 1-3,text,true,,634,118,4,4,http://www.daraz.com.bd/,51,0,0
+1732391585772,53,daraz-1,200,OK,Thread Group 1-3,text,true,,2082,118,4,4,https://www.daraz.com.bd/,53,0,0
+1732391585815,112,daraz,200,OK,Thread Group 1-17,text,true,,2716,236,3,3,https://www.daraz.com.bd/,55,0,0
+1732391585815,112,daraz,200,OK,Thread Group 1-15,text,true,,2668,236,3,3,https://www.daraz.com.bd/,54,0,0
+1732391585815,55,daraz-0,301,Moved Permanently,Thread Group 1-17,text,true,,634,118,3,3,http://www.daraz.com.bd/,55,0,0
+1732391585815,54,daraz-0,301,Moved Permanently,Thread Group 1-15,text,true,,634,118,3,3,http://www.daraz.com.bd/,54,0,0
+1732391585870,57,daraz-1,200,OK,Thread Group 1-17,text,true,,2082,118,3,3,https://www.daraz.com.bd/,57,0,0
+1732391585870,57,daraz-1,200,OK,Thread Group 1-15,text,true,,2034,118,3,3,https://www.daraz.com.bd/,57,0,0
+1732391585749,278,daraz,200,OK,Thread Group 1-8,text,true,,2668,236,2,2,https://www.daraz.com.bd/,110,0,54
+1732391585749,110,daraz-0,301,Moved Permanently,Thread Group 1-8,text,true,,634,118,2,2,http://www.daraz.com.bd/,110,0,54
+1732391585860,167,daraz-1,200,OK,Thread Group 1-8,text,true,,2034,118,2,2,https://www.daraz.com.bd/,167,0,112
+1732391585927,110,daraz,200,OK,Thread Group 1-17,text,true,,2704,236,2,2,https://www.daraz.com.bd/,51,0,0
+1732391585927,51,daraz-0,301,Moved Permanently,Thread Group 1-17,text,true,,634,118,2,2,http://www.daraz.com.bd/,51,0,0
+1732391585978,59,daraz-1,200,OK,Thread Group 1-17,text,true,,2070,118,2,2,https://www.daraz.com.bd/,59,0,0
+1732391586028,120,daraz,200,OK,Thread Group 1-8,text,true,,2668,236,1,1,https://www.daraz.com.bd/,56,0,0
+1732391586028,56,daraz-0,301,Moved Permanently,Thread Group 1-8,text,true,,634,118,1,1,http://www.daraz.com.bd/,56,0,0
+1732391586085,63,daraz-1,200,OK,Thread Group 1-8,text,true,,2034,118,1,1,https://www.daraz.com.bd/,63,0,0
+1732391586148,113,daraz,200,OK,Thread Group 1-8,text,true,,2710,236,1,1,https://www.daraz.com.bd/,53,0,0
+1732391586148,53,daraz-0,301,Moved Permanently,Thread Group 1-8,text,true,,634,118,1,1,http://www.daraz.com.bd/,53,0,0
+1732391586202,59,daraz-1,200,OK,Thread Group 1-8,text,true,,2076,118,1,1,https://www.daraz.com.bd/,59,0,0
