@@ -1,7 +1,4 @@
 # Daraz-performance-testing-results
-Here's a simple and concise README file you can use for your performance testing project repository:
-
----
 
 This repository contains the results of performance testing conducted on a sample e-commerce web application using **Apache JMeter**. The goal was to evaluate the application's behavior under various user loads and identify performance bottlenecks.
 
